@@ -1,1 +1,1 @@
- 
+stringList.removeRange(0,2);

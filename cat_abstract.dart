@@ -7,3 +7,9 @@ class Cat extends AbstractAnimal{
   :
   super(name, age, weight);
 }
+
+// ini adalah contoh jika memanggil class abstract tidak akan bisa
+
+// void main(){
+//   var catDicoding = AbstractAnimal('Wiky', 2, 2);
+// }
